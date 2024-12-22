@@ -20,4 +20,4 @@ let isLoggedIn = true //boolan
 console.log(typeof "sagar");
 console.log(typeof age);
 console.log(typeof null); //Null is a object
-console.log(typeof undefined);
+console.log(typeof undefined); //datatype undefined
