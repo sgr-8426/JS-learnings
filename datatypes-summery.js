@@ -22,7 +22,19 @@
 
 // Object
 // let obj = {
-//     key: Value,
+//     key: "value",
 //     name: "sagar",
 //     age: 19,
 // }
+
+// // Function
+// let fun = function(){
+//     console.log("hello");   
+// }
+
+// console.log(typeof(obj));
+// console.log(typeof(fun));
+// console.log(typeof(Heroes));
+// console.log(typeof(b));
+// console.log(typeof(c));
+// console.log(typeof(null));
