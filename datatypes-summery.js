@@ -12,3 +12,5 @@ const b = Symbol("abc")
 console.log(a);
 console.log(b);
 console.log( a === b );
+
+let c = 123423412414234124141224n //bigInt
