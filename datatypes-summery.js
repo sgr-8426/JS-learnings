@@ -5,3 +5,10 @@
 // Arrays, Objects, Functions
 
 // JS is dynamically typed
+
+const a = Symbol("abc") 
+const b = Symbol("abc")
+
+console.log(a);
+console.log(b);
+console.log( a === b );
