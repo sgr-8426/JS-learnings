@@ -24,5 +24,19 @@ const gameName = new String('Sagar-N')
 // first in positive and second is negative, negative starts from -1 means last element
 // does not include the last index
 // if first parsing is negative it will be considered as 0
-console.log(gameName.slice(5, -6));
+// console.log(gameName.slice(5, -6));
+
+// const str = "   Hello World    "
+// console.log(str);
+// trim extra spaces from start and end and new lines
+// str.trimStart() str.trimEnd()
+// console.log(str.trim());
+
+// const url = "https://www.google.com/sagar%20narigara"
+// console.log(url.replace('%20', ' '));
+// console.log(url.includes('google'));
+// console.log(url.includes('googlee'));
+
+// const str2 = "Hello! My Name Is Sagar"
+// console.log(str2.split(' '));
 
